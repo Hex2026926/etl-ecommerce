@@ -1,0 +1,516 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_country,name,email,gender,signup_date,country,order_item_id,product_id,quantity,unit_price,product_name,category,price,stock_quantity,brand
+1,68,2023-03-12,1262.36,Bank Transfer,Belgium,Mary Jones,alexander67@example.org,Male,2022-10-09,Guyana,150.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+2,71,2025-01-04,1516.44,Credit Card,Timor-Leste,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,332.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+3,88,2024-04-20,36.45,Credit Card,Martinique,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,216.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+4,88,2023-02-15,1329.27,Bank Transfer,Ghana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,95.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+4,88,2023-02-15,1329.27,Bank Transfer,Ghana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,99.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+4,88,2023-02-15,1329.27,Bank Transfer,Ghana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,266.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+5,99,2024-02-10,734.25,Bank Transfer,Tuvalu,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,80.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+5,99,2024-02-10,734.25,Bank Transfer,Tuvalu,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,337.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+6,15,2024-08-22,2306.26,Bank Transfer,Tunisia,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,137.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+6,15,2024-08-22,2306.26,Bank Transfer,Tunisia,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,257.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+6,15,2024-08-22,2306.26,Bank Transfer,Tunisia,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,341.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+7,56,2023-10-08,862.85,PayPal,Niger,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,52.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+7,56,2023-10-08,862.85,PayPal,Niger,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,238.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+8,59,2021-11-16,1137.33,Credit Card,Norfolk Island,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,71.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+9,93,2024-05-04,726.27,Bank Transfer,France,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,250.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+9,93,2024-05-04,726.27,Bank Transfer,France,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,478.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,147.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,182.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,191.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,243.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,396.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+10,65,2025-08-05,3391.78,PayPal,San Marino,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,453.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+11,65,2021-12-19,550.12,Credit Card,Bolivia,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,138.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,179.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,196.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,274.0,9.0,3.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,327.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,449.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+12,81,2024-08-23,5537.67,Bank Transfer,Romania,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,454.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+13,82,2025-02-03,2304.08,PayPal,Kenya,Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,4.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+13,82,2025-02-03,2304.08,PayPal,Kenya,Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,320.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+13,82,2025-02-03,2304.08,PayPal,Kenya,Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,431.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+14,20,2022-04-09,294.37,Bank Transfer,French Southern Territories,Andre Rivera,joshuawashington@example.net,Male,2021-04-06,Vietnam,379.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+15,98,2025-03-20,883.11,PayPal,Aruba,Juan Daniels,mcantu@example.net,Female,2021-10-18,Hungary,364.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+16,70,2022-11-25,0.0,Credit Card,Azerbaijan,Patricia Marshall,marcus31@example.com,Other,2025-01-04,Ecuador,,,,,,,,,
+17,77,2022-10-11,1382.0,Bank Transfer,Holy See (Vatican City State),Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,19.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+17,77,2022-10-11,1382.0,Bank Transfer,Holy See (Vatican City State),Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,103.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+17,77,2022-10-11,1382.0,Bank Transfer,Holy See (Vatican City State),Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,433.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+18,63,2023-04-30,588.74,Credit Card,Ecuador,Joshua Cooke,jeffrey10@example.org,Other,2025-05-08,Cook Islands,446.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+19,15,2023-09-24,794.67,Bank Transfer,Mongolia,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,104.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+19,15,2023-09-24,794.67,Bank Transfer,Mongolia,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,493.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+20,40,2024-05-01,1181.14,PayPal,Cocos (Keeling) Islands,Tim Patton,vpham@example.org,Female,2021-12-08,Solomon Islands,117.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+20,40,2024-05-01,1181.14,PayPal,Cocos (Keeling) Islands,Tim Patton,vpham@example.org,Female,2021-12-08,Solomon Islands,348.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+20,40,2024-05-01,1181.14,PayPal,Cocos (Keeling) Islands,Tim Patton,vpham@example.org,Female,2021-12-08,Solomon Islands,365.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+20,40,2024-05-01,1181.14,PayPal,Cocos (Keeling) Islands,Tim Patton,vpham@example.org,Female,2021-12-08,Solomon Islands,394.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+21,8,2022-04-14,2887.88,PayPal,Belgium,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,40.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+21,8,2022-04-14,2887.88,PayPal,Belgium,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,279.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+21,8,2022-04-14,2887.88,PayPal,Belgium,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,426.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+22,73,2024-01-16,227.12,Credit Card,Hong Kong,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,34.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+23,11,2024-01-31,658.04,Cash,Dominican Republic,Ann Williams,hernandezernest@example.net,Other,2022-09-18,Bahrain,68.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+23,11,2024-01-31,658.04,Cash,Dominican Republic,Ann Williams,hernandezernest@example.net,Other,2022-09-18,Bahrain,343.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+24,9,2023-08-06,526.74,PayPal,Myanmar,Jennifer Jones,jason76@example.net,Other,2022-11-24,Estonia,224.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+24,9,2023-08-06,526.74,PayPal,Myanmar,Jennifer Jones,jason76@example.net,Other,2022-11-24,Estonia,293.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+25,17,2022-03-06,0.0,Cash,Kyrgyz Republic,Betty Alvarez,josephbrennan@example.com,Male,2025-06-04,Vanuatu,,,,,,,,,
+26,71,2024-02-26,1062.26,PayPal,Kuwait,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,194.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+26,71,2024-02-26,1062.26,PayPal,Kuwait,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,422.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+27,34,2022-08-17,1062.1,Cash,Algeria,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,352.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+27,34,2022-08-17,1062.1,Cash,Algeria,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,372.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+27,34,2022-08-17,1062.1,Cash,Algeria,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,468.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+28,28,2025-03-14,1471.85,PayPal,Lao People's Democratic Republic,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,303.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+29,92,2025-03-17,680.6,Bank Transfer,Philippines,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,325.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,149.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,161.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,230.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,242.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,244.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,270.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,324.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+31,57,2023-05-16,1707.17,Cash,Guatemala,Daniel Perry,amy60@example.org,Male,2024-10-07,Iceland,57.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+31,57,2023-05-16,1707.17,Cash,Guatemala,Daniel Perry,amy60@example.org,Male,2024-10-07,Iceland,107.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+31,57,2023-05-16,1707.17,Cash,Guatemala,Daniel Perry,amy60@example.org,Male,2024-10-07,Iceland,489.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories,Dr. Cynthia Allen,millertodd@example.org,Female,2025-06-29,Martinique,5.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories,Dr. Cynthia Allen,millertodd@example.org,Female,2025-06-29,Martinique,157.0,1.0,5.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories,Dr. Cynthia Allen,millertodd@example.org,Female,2025-06-29,Martinique,255.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories,Dr. Cynthia Allen,millertodd@example.org,Female,2025-06-29,Martinique,413.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories,Dr. Cynthia Allen,millertodd@example.org,Female,2025-06-29,Martinique,460.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+33,29,2024-02-28,1262.5,Credit Card,Jamaica,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,46.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+33,29,2024-02-28,1262.5,Credit Card,Jamaica,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,269.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+33,29,2024-02-28,1262.5,Credit Card,Jamaica,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,388.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+34,44,2024-05-13,461.39,Credit Card,Korea,Kyle Reed,samuel81@example.com,Female,2025-02-06,Comoros,295.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+34,44,2024-05-13,461.39,Credit Card,Korea,Kyle Reed,samuel81@example.com,Female,2025-02-06,Comoros,397.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+35,76,2024-12-25,473.52,PayPal,Congo,Cathy Robinson,lhill@example.net,Female,2023-08-03,Bolivia,452.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+36,76,2025-08-08,2394.87,PayPal,Timor-Leste,Cathy Robinson,lhill@example.net,Female,2023-08-03,Bolivia,17.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+36,76,2025-08-08,2394.87,PayPal,Timor-Leste,Cathy Robinson,lhill@example.net,Female,2023-08-03,Bolivia,410.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+36,76,2025-08-08,2394.87,PayPal,Timor-Leste,Cathy Robinson,lhill@example.net,Female,2023-08-03,Bolivia,423.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+36,76,2025-08-08,2394.87,PayPal,Timor-Leste,Cathy Robinson,lhill@example.net,Female,2023-08-03,Bolivia,484.0,9.0,3.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+37,1,2023-07-15,1927.58,Credit Card,Dominica,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,126.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+37,1,2023-07-15,1927.58,Credit Card,Dominica,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,231.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+37,1,2023-07-15,1927.58,Credit Card,Dominica,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,313.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+37,1,2023-07-15,1927.58,Credit Card,Dominica,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,477.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+38,91,2023-02-17,924.41,Credit Card,Guinea-Bissau,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,263.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+38,91,2023-02-17,924.41,Credit Card,Guinea-Bissau,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,280.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+39,30,2023-11-26,2070.21,Credit Card,Reunion,Christina Moran,josephanderson@example.net,Other,2022-02-07,Germany,105.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+39,30,2023-11-26,2070.21,Credit Card,Reunion,Christina Moran,josephanderson@example.net,Other,2022-02-07,Germany,371.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+40,5,2022-10-14,1578.58,Bank Transfer,Switzerland,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,292.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+40,5,2022-10-14,1578.58,Bank Transfer,Switzerland,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,319.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+40,5,2022-10-14,1578.58,Bank Transfer,Switzerland,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,354.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+40,5,2022-10-14,1578.58,Bank Transfer,Switzerland,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,398.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+41,10,2024-03-27,1769.22,PayPal,Falkland Islands (Malvinas),Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,207.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+41,10,2024-03-27,1769.22,PayPal,Falkland Islands (Malvinas),Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,376.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+41,10,2024-03-27,1769.22,PayPal,Falkland Islands (Malvinas),Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,498.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+42,36,2021-08-20,2824.68,Cash,Tonga,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,144.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+42,36,2021-08-20,2824.68,Cash,Tonga,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,409.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+43,28,2024-05-06,2136.3,PayPal,Samoa,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,49.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+43,28,2024-05-06,2136.3,PayPal,Samoa,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,127.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+43,28,2024-05-06,2136.3,PayPal,Samoa,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,195.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+43,28,2024-05-06,2136.3,PayPal,Samoa,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,471.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+44,93,2025-07-01,0.0,Cash,United States Minor Outlying Islands,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,,,,,,,,,
+45,32,2024-01-11,1278.14,Cash,Luxembourg,Sherry Wood,samueldaniels@example.com,Male,2023-08-30,Sri Lanka,201.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+45,32,2024-01-11,1278.14,Cash,Luxembourg,Sherry Wood,samueldaniels@example.com,Male,2023-08-30,Sri Lanka,268.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+45,32,2024-01-11,1278.14,Cash,Luxembourg,Sherry Wood,samueldaniels@example.com,Male,2023-08-30,Sri Lanka,333.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+46,53,2024-12-07,2209.13,PayPal,United Kingdom,Sylvia Martinez,lauriecontreras@example.net,Male,2023-07-31,Zambia,3.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+46,53,2024-12-07,2209.13,PayPal,United Kingdom,Sylvia Martinez,lauriecontreras@example.net,Male,2023-07-31,Zambia,64.0,9.0,3.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+47,13,2022-10-01,2000.03,Credit Card,South Georgia and the South Sandwich Islands,Martin Rodriguez,amoore@example.net,Other,2024-12-25,Estonia,72.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+47,13,2022-10-01,2000.03,Credit Card,South Georgia and the South Sandwich Islands,Martin Rodriguez,amoore@example.net,Other,2024-12-25,Estonia,140.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+47,13,2022-10-01,2000.03,Credit Card,South Georgia and the South Sandwich Islands,Martin Rodriguez,amoore@example.net,Other,2024-12-25,Estonia,309.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+47,13,2022-10-01,2000.03,Credit Card,South Georgia and the South Sandwich Islands,Martin Rodriguez,amoore@example.net,Other,2024-12-25,Estonia,311.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+48,85,2022-07-11,0.0,Cash,Spain,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,,,,,,,,,
+49,46,2023-01-05,236.76,Cash,North Macedonia,Ryan Cortez,william65@example.com,Male,2024-02-02,Micronesia,76.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+50,53,2022-05-13,272.24,Cash,El Salvador,Sylvia Martinez,lauriecontreras@example.net,Male,2023-07-31,Zambia,93.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+51,94,2024-04-25,687.65,Credit Card,Saint Helena,Michelle Collins,tranchristopher@example.org,Other,2022-11-29,British Indian Ocean Territory (Chagos Archipelago),353.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+52,87,2024-09-03,1199.47,Credit Card,Pitcairn Islands,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,226.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+52,87,2024-09-03,1199.47,Credit Card,Pitcairn Islands,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,492.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+52,87,2024-09-03,1199.47,Credit Card,Pitcairn Islands,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,500.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+53,8,2024-12-15,864.14,Cash,Niue,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,259.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+53,8,2024-12-15,864.14,Cash,Niue,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,329.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+54,94,2021-12-28,72.9,Bank Transfer,Niue,Michelle Collins,tranchristopher@example.org,Other,2022-11-29,British Indian Ocean Territory (Chagos Archipelago),260.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+55,14,2024-03-10,1137.33,PayPal,Georgia,Pamela Romero,harrellkenneth@example.net,Male,2023-02-21,Congo,37.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+56,25,2024-10-04,1824.98,PayPal,Antigua and Barbuda,Cynthia Russell,zlewis@example.org,Other,2021-06-04,Afghanistan,90.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+56,25,2024-10-04,1824.98,PayPal,Antigua and Barbuda,Cynthia Russell,zlewis@example.org,Other,2021-06-04,Afghanistan,427.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+57,69,2023-12-03,1360.34,Cash,Saint Martin,Sandra Zimmerman,hthompson@example.net,Male,2021-12-14,Sri Lanka,28.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+57,69,2023-12-03,1360.34,Cash,Saint Martin,Sandra Zimmerman,hthompson@example.net,Male,2021-12-14,Sri Lanka,81.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+57,69,2023-12-03,1360.34,Cash,Saint Martin,Sandra Zimmerman,hthompson@example.net,Male,2021-12-14,Sri Lanka,347.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+58,18,2022-02-16,2986.93,Cash,United States of America,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,109.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+58,18,2022-02-16,2986.93,Cash,United States of America,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,125.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+58,18,2022-02-16,2986.93,Cash,United States of America,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,393.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+58,18,2022-02-16,2986.93,Cash,United States of America,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,421.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+59,24,2022-10-14,182.25,Bank Transfer,San Marino,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,136.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+60,60,2023-04-08,2371.19,PayPal,Cook Islands,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,87.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+60,60,2023-04-08,2371.19,PayPal,Cook Islands,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,120.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+60,60,2023-04-08,2371.19,PayPal,Cook Islands,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,204.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+60,60,2023-04-08,2371.19,PayPal,Cook Islands,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,261.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+61,10,2022-02-18,2267.63,Cash,Mauritius,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,15.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+61,10,2022-02-18,2267.63,Cash,Mauritius,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,192.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+61,10,2022-02-18,2267.63,Cash,Mauritius,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,212.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+61,10,2022-02-18,2267.63,Cash,Mauritius,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,430.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+61,10,2022-02-18,2267.63,Cash,Mauritius,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,479.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+62,71,2025-02-09,1512.83,Credit Card,Haiti,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,116.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+62,71,2025-02-09,1512.83,Credit Card,Haiti,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,158.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+62,71,2025-02-09,1512.83,Credit Card,Haiti,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,436.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+63,7,2023-09-23,3151.0,Credit Card,United States Minor Outlying Islands,Mark Diaz,michael41@example.net,Male,2023-10-12,Martinique,69.0,8.0,5.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+63,7,2023-09-23,3151.0,Credit Card,United States Minor Outlying Islands,Mark Diaz,michael41@example.net,Male,2023-10-12,Martinique,258.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+63,7,2023-09-23,3151.0,Credit Card,United States Minor Outlying Islands,Mark Diaz,michael41@example.net,Male,2023-10-12,Martinique,344.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+64,12,2022-09-11,1964.26,PayPal,Chad,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,44.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+64,12,2022-09-11,1964.26,PayPal,Chad,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,374.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+64,12,2022-09-11,1964.26,PayPal,Chad,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,486.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,102.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,135.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,264.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,382.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,445.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+65,22,2022-08-19,2663.38,Cash,Sweden,Jason Shields,nuneztracey@example.org,Other,2020-11-26,Saint Lucia,457.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+66,63,2025-05-19,0.0,Cash,Sri Lanka,Joshua Cooke,jeffrey10@example.org,Other,2025-05-08,Cook Islands,,,,,,,,,
+67,28,2022-10-14,1329.0,Cash,Trinidad and Tobago,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,11.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+67,28,2022-10-14,1329.0,Cash,Trinidad and Tobago,Brooke Yu,yorkcasey@example.org,Other,2023-12-24,Dominica,36.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+68,8,2022-12-16,0.0,PayPal,Brazil,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,,,,,,,,,
+69,49,2023-06-24,1219.92,Credit Card,Belarus,Nancy Hopkins,zachary95@example.org,Female,2024-09-11,Sao Tome and Principe,67.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+69,49,2023-06-24,1219.92,Credit Card,Belarus,Nancy Hopkins,zachary95@example.org,Female,2024-09-11,Sao Tome and Principe,155.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+70,50,2022-03-02,4046.1,Bank Transfer,Czech Republic,Eric Drake,andrewsanchez@example.com,Female,2023-08-29,Seychelles,86.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+70,50,2022-03-02,4046.1,Bank Transfer,Czech Republic,Eric Drake,andrewsanchez@example.com,Female,2023-08-29,Seychelles,131.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+70,50,2022-03-02,4046.1,Bank Transfer,Czech Republic,Eric Drake,andrewsanchez@example.com,Female,2023-08-29,Seychelles,228.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+70,50,2022-03-02,4046.1,Bank Transfer,Czech Republic,Eric Drake,andrewsanchez@example.com,Female,2023-08-29,Seychelles,323.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+71,59,2025-01-16,868.57,Bank Transfer,Saint Kitts and Nevis,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,96.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+71,59,2025-01-16,868.57,Bank Transfer,Saint Kitts and Nevis,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,169.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+71,59,2025-01-16,868.57,Bank Transfer,Saint Kitts and Nevis,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,281.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+72,55,2024-04-20,109.35,Cash,Indonesia,Joanna Walton,katie87@example.net,Female,2021-10-19,Kazakhstan,74.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+73,20,2025-06-22,1134.84,PayPal,Spain,Andre Rivera,joshuawashington@example.net,Male,2021-04-06,Vietnam,171.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+73,20,2025-06-22,1134.84,PayPal,Spain,Andre Rivera,joshuawashington@example.net,Male,2021-04-06,Vietnam,377.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+74,38,2023-11-01,1920.16,PayPal,Bermuda,Amanda Howard,elizabethgomez@example.net,Other,2025-01-09,Ireland,156.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+74,38,2023-11-01,1920.16,PayPal,Bermuda,Amanda Howard,elizabethgomez@example.net,Other,2025-01-09,Ireland,299.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+74,38,2023-11-01,1920.16,PayPal,Bermuda,Amanda Howard,elizabethgomez@example.net,Other,2025-01-09,Ireland,458.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+75,8,2024-10-07,767.89,Credit Card,American Samoa,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,331.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+75,8,2024-10-07,767.89,Credit Card,American Samoa,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,340.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+76,96,2022-08-30,883.11,Bank Transfer,British Virgin Islands,Charles Lee,michellehill@example.com,Male,2022-04-20,Solomon Islands,197.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+77,8,2023-06-04,0.0,Credit Card,Peru,Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,,,,,,,,,
+78,75,2024-08-07,236.76,Cash,Estonia,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,106.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+79,65,2023-12-11,109.35,PayPal,Swaziland,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,82.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State),Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,51.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State),Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,222.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State),Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,317.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State),Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,385.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State),Carla Gray,gabriellecameron@example.org,Male,2021-09-30,Antigua and Barbuda,391.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+81,24,2022-01-14,2167.34,Credit Card,Djibouti,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,88.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+81,24,2022-01-14,2167.34,Credit Card,Djibouti,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,148.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+81,24,2022-01-14,2167.34,Credit Card,Djibouti,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,290.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+81,24,2022-01-14,2167.34,Credit Card,Djibouti,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,338.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+81,24,2022-01-14,2167.34,Credit Card,Djibouti,Angela Morton,williamsyvette@example.org,Male,2025-06-13,Vanuatu,455.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+82,77,2023-06-28,2211.14,Credit Card,Niger,Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,16.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+82,77,2023-06-28,2211.14,Credit Card,Niger,Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,190.0,8.0,5.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+83,87,2025-02-20,588.74,PayPal,Monaco,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,358.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+84,52,2022-12-01,72.9,Credit Card,New Zealand,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,239.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+85,73,2022-06-28,4767.62,PayPal,Bahrain,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,20.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+85,73,2022-06-28,4767.62,PayPal,Bahrain,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,85.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+85,73,2022-06-28,4767.62,PayPal,Bahrain,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,189.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+85,73,2022-06-28,4767.62,PayPal,Bahrain,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,297.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+85,73,2022-06-28,4767.62,PayPal,Bahrain,Peter Vaughn DDS,bwest@example.org,Male,2022-01-27,Iraq,380.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+86,75,2024-02-23,886.27,Credit Card,Kyrgyz Republic,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,143.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+86,75,2024-02-23,886.27,Credit Card,Kyrgyz Republic,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,383.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+87,80,2025-03-29,1962.41,Credit Card,Gabon,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,30.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+87,80,2025-03-29,1962.41,Credit Card,Gabon,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,38.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+87,80,2025-03-29,1962.41,Credit Card,Gabon,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,310.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+87,80,2025-03-29,1962.41,Credit Card,Gabon,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,450.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+87,80,2025-03-29,1962.41,Credit Card,Gabon,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,462.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+88,54,2024-03-14,1308.34,Bank Transfer,Brazil,Jessica Briggs,jrivas@example.com,Other,2025-02-02,Samoa,101.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+88,54,2024-03-14,1308.34,Bank Transfer,Brazil,Jessica Briggs,jrivas@example.com,Other,2025-02-02,Samoa,316.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+88,54,2024-03-14,1308.34,Bank Transfer,Brazil,Jessica Briggs,jrivas@example.com,Other,2025-02-02,Samoa,392.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+89,34,2022-03-01,3411.36,PayPal,Yemen,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,58.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+89,34,2022-03-01,3411.36,PayPal,Yemen,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,84.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+89,34,2022-03-01,3411.36,PayPal,Yemen,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,174.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+89,34,2022-03-01,3411.36,PayPal,Yemen,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,208.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+90,86,2021-10-02,329.44,Bank Transfer,Lithuania,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,42.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,25.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,73.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,219.0,4.0,2.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,298.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,300.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,438.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+92,51,2025-02-25,109.35,PayPal,Burkina Faso,Jason Soto,jennifercruz@example.com,Other,2021-10-27,Palau,213.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+93,86,2023-02-27,1804.65,Bank Transfer,Heard Island and McDonald Islands,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,94.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+93,86,2023-02-27,1804.65,Bank Transfer,Heard Island and McDonald Islands,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,252.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+93,86,2023-02-27,1804.65,Bank Transfer,Heard Island and McDonald Islands,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,390.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+94,59,2024-04-14,1577.95,Bank Transfer,Samoa,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,227.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+95,97,2024-05-22,2213.22,Credit Card,Mauritius,Samantha Campbell,mary97@example.org,Male,2022-11-01,Liberia,235.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+95,97,2024-05-22,2213.22,Credit Card,Mauritius,Samantha Campbell,mary97@example.org,Male,2022-11-01,Liberia,304.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+95,97,2024-05-22,2213.22,Credit Card,Mauritius,Samantha Campbell,mary97@example.org,Male,2022-11-01,Liberia,482.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+96,2,2023-04-13,0.0,Cash,Samoa,Amanda Davis,williamjohnson@example.org,Male,2024-03-08,Reunion,,,,,,,,,
+97,80,2024-07-05,454.24,Credit Card,Turks and Caicos Islands,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,315.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+98,10,2023-04-07,746.38,PayPal,Bolivia,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,24.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+98,10,2023-04-07,746.38,PayPal,Bolivia,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,202.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+98,10,2023-04-07,746.38,PayPal,Bolivia,Patrick Ryan,zhurst@example.com,Male,2021-09-12,Burundi,236.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,18.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,167.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,178.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,211.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,420.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,480.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+100,17,2023-03-28,379.11,Bank Transfer,Zambia,Betty Alvarez,josephbrennan@example.com,Male,2025-06-04,Vanuatu,443.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+101,9,2022-09-21,0.0,PayPal,Portugal,Jennifer Jones,jason76@example.net,Other,2022-11-24,Estonia,,,,,,,,,
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,233.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,254.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,336.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,346.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,456.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,485.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+103,21,2023-05-20,1945.59,Cash,Dominica,Laura Sanchez,maguirre@example.org,Male,2021-02-01,Jersey,289.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+103,21,2023-05-20,1945.59,Cash,Dominica,Laura Sanchez,maguirre@example.org,Male,2021-02-01,Jersey,345.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+103,21,2023-05-20,1945.59,Cash,Dominica,Laura Sanchez,maguirre@example.org,Male,2021-02-01,Jersey,461.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+104,70,2025-01-09,0.0,Bank Transfer,Bolivia,Patricia Marshall,marcus31@example.com,Other,2025-01-04,Ecuador,,,,,,,,,
+105,79,2025-07-12,2269.84,Credit Card,Heard Island and McDonald Islands,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,118.0,8.0,5.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+105,79,2025-07-12,2269.84,Credit Card,Heard Island and McDonald Islands,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,160.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+105,79,2025-07-12,2269.84,Credit Card,Heard Island and McDonald Islands,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,186.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+106,86,2023-10-13,2457.5,Bank Transfer,Oman,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,151.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+106,86,2023-10-13,2457.5,Bank Transfer,Oman,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,288.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+106,86,2023-10-13,2457.5,Bank Transfer,Oman,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,401.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+107,85,2023-01-15,2684.89,Credit Card,Indonesia,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,21.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+107,85,2023-01-15,2684.89,Credit Card,Indonesia,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,248.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+107,85,2023-01-15,2684.89,Credit Card,Indonesia,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,418.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+107,85,2023-01-15,2684.89,Credit Card,Indonesia,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,439.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+108,18,2022-09-16,2597.76,Bank Transfer,British Virgin Islands,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,22.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+108,18,2022-09-16,2597.76,Bank Transfer,British Virgin Islands,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,26.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+108,18,2022-09-16,2597.76,Bank Transfer,British Virgin Islands,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,61.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+108,18,2022-09-16,2597.76,Bank Transfer,British Virgin Islands,Monica Harris,raymond57@example.net,Male,2022-11-10,Egypt,247.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+109,15,2025-05-26,947.04,Credit Card,Swaziland,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,124.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+109,15,2025-05-26,947.04,Credit Card,Swaziland,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,429.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+110,96,2023-06-04,1728.2,PayPal,Panama,Charles Lee,michellehill@example.com,Male,2022-04-20,Solomon Islands,437.0,1.0,5.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,62.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,198.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,285.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,287.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,294.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,466.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+112,78,2023-12-29,236.76,PayPal,Angola,Melissa Martinez,agarcia@example.net,Female,2022-01-09,Lesotho,416.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+113,92,2021-10-21,1894.08,Bank Transfer,Grenada,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,14.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+113,92,2021-10-21,1894.08,Bank Transfer,Grenada,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,129.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+113,92,2021-10-21,1894.08,Bank Transfer,Grenada,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,184.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+113,92,2021-10-21,1894.08,Bank Transfer,Grenada,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,359.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+114,27,2022-07-30,1730.17,Bank Transfer,Brunei Darussalam,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,251.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+114,27,2022-07-30,1730.17,Bank Transfer,Brunei Darussalam,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,321.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+114,27,2022-07-30,1730.17,Bank Transfer,Brunei Darussalam,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,360.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+114,27,2022-07-30,1730.17,Bank Transfer,Brunei Darussalam,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,402.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,173.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,271.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,357.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,425.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,470.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+115,65,2024-10-01,4135.63,Cash,Costa Rica,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,472.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+116,33,2021-11-17,2062.88,Credit Card,Serbia,Aimee Montoya,sarah12@example.com,Female,2021-03-06,Botswana,110.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+116,33,2021-11-17,2062.88,Credit Card,Serbia,Aimee Montoya,sarah12@example.com,Female,2021-03-06,Botswana,415.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+116,33,2021-11-17,2062.88,Credit Card,Serbia,Aimee Montoya,sarah12@example.com,Female,2021-03-06,Botswana,417.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,166.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,176.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,185.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,210.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,246.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+117,12,2023-10-27,5233.24,Cash,Namibia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,284.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+118,36,2022-06-20,481.76,Credit Card,Trinidad and Tobago,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,205.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+118,36,2022-06-20,481.76,Credit Card,Trinidad and Tobago,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,275.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,6.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,35.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,363.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,367.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,407.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+120,99,2022-03-12,1936.05,PayPal,United Arab Emirates,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,31.0,3.0,5.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+120,99,2022-03-12,1936.05,PayPal,United Arab Emirates,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,66.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+120,99,2022-03-12,1936.05,PayPal,United Arab Emirates,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,206.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,100.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,119.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,142.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,187.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,405.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas),Marc Lynch,mezajared@example.org,Female,2021-12-04,Belgium,424.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+122,21,2025-01-14,1577.95,Cash,Cameroon,Laura Sanchez,maguirre@example.org,Male,2021-02-01,Jersey,83.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+123,71,2025-07-21,454.24,Cash,Mauritius,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,276.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+124,72,2022-08-10,1166.58,Credit Card,China,Douglas Carlson,angela83@example.org,Female,2021-10-22,Ireland,165.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+124,72,2022-08-10,1166.58,Credit Card,China,Douglas Carlson,angela83@example.org,Female,2021-10-22,Ireland,229.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+125,15,2022-01-16,2329.33,Credit Card,Tonga,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,29.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+125,15,2022-01-16,2329.33,Credit Card,Tonga,Phillip Ryan,georgetracy@example.org,Other,2025-04-01,Turkey,326.0,9.0,3.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+126,89,2021-09-15,0.0,PayPal,American Samoa,Julie Pearson,howard96@example.net,Other,2024-09-03,Bermuda,,,,,,,,,
+127,70,2023-01-14,379.11,Credit Card,Solomon Islands,Patricia Marshall,marcus31@example.com,Other,2025-01-04,Ecuador,132.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+128,48,2022-07-22,72.9,PayPal,Gibraltar,Jeffrey Carpenter,steven73@example.net,Male,2022-12-20,United Arab Emirates,203.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+129,56,2021-09-01,3498.3,PayPal,Estonia,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,273.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+129,56,2021-09-01,3498.3,PayPal,Estonia,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,408.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+129,56,2021-09-01,3498.3,PayPal,Estonia,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,419.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,60.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,170.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,301.0,4.0,2.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,362.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,373.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,395.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,442.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+131,47,2023-04-16,466.97,Credit Card,Brazil,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,168.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+131,47,2023-04-16,466.97,Credit Card,Brazil,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,499.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+132,46,2024-08-02,137.53,PayPal,Lebanon,Ryan Cortez,william65@example.com,Male,2024-02-02,Micronesia,476.0,3.0,1.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+133,88,2023-05-25,3313.1,PayPal,Guyana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,139.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+133,88,2023-05-25,3313.1,PayPal,Guyana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,152.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+133,88,2023-05-25,3313.1,PayPal,Guyana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,464.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+133,88,2023-05-25,3313.1,PayPal,Guyana,Michael Valencia,keyemily@example.com,Other,2023-06-26,Serbia,488.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+134,86,2023-08-28,0.0,Credit Card,Botswana,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,,,,,,,,,
+135,46,2023-05-31,3450.27,Cash,Cyprus,Ryan Cortez,william65@example.com,Male,2024-02-02,Micronesia,375.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+135,46,2023-05-31,3450.27,Cash,Cyprus,Ryan Cortez,william65@example.com,Male,2024-02-02,Micronesia,440.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+135,46,2023-05-31,3450.27,Cash,Cyprus,Ryan Cortez,william65@example.com,Male,2024-02-02,Micronesia,441.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+136,80,2025-05-21,1198.98,PayPal,Aruba,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,199.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+136,80,2025-05-21,1198.98,PayPal,Aruba,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,349.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+137,31,2024-07-06,4018.08,PayPal,United States of America,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,32.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+137,31,2024-07-06,4018.08,PayPal,United States of America,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,334.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+137,31,2024-07-06,4018.08,PayPal,United States of America,Taylor Smith,jonesjason@example.com,Female,2021-04-06,Guernsey,404.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+138,23,2025-01-26,1023.64,Cash,Mali,Scott Wright,amandataylor@example.org,Other,2021-12-29,Egypt,234.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+138,23,2025-01-26,1023.64,Cash,Mali,Scott Wright,amandataylor@example.org,Other,2021-12-29,Egypt,245.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+139,4,2022-10-23,408.36,PayPal,Norway,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,497.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+140,95,2025-06-17,702.73,Bank Transfer,Bahamas,Brittany Cantu,william46@example.com,Other,2025-07-03,Ecuador,253.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+140,95,2025-06-17,702.73,Bank Transfer,Bahamas,Brittany Cantu,william46@example.com,Other,2025-07-03,Ecuador,467.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+141,53,2025-08-06,1935.7,PayPal,Tanzania,Sylvia Martinez,lauriecontreras@example.net,Male,2023-07-31,Zambia,9.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+141,53,2025-08-06,1935.7,PayPal,Tanzania,Sylvia Martinez,lauriecontreras@example.net,Male,2023-07-31,Zambia,282.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+142,35,2023-03-18,2592.34,PayPal,Poland,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,97.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+142,35,2023-03-18,2592.34,PayPal,Poland,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,159.0,1.0,5.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+142,35,2023-03-18,2592.34,PayPal,Poland,Taylor Mathis Jr.,ccalderon@example.org,Female,2022-04-09,Bulgaria,412.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+143,90,2022-01-13,3340.33,Credit Card,Rwanda,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,75.0,1.0,5.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+143,90,2022-01-13,3340.33,Credit Card,Rwanda,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,78.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+143,90,2022-01-13,3340.33,Credit Card,Rwanda,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,232.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+144,49,2025-03-30,817.3,Credit Card,Barbados,Nancy Hopkins,zachary95@example.org,Female,2024-09-11,Sao Tome and Principe,306.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+144,49,2025-03-30,817.3,Credit Card,Barbados,Nancy Hopkins,zachary95@example.org,Female,2024-09-11,Sao Tome and Principe,335.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+144,49,2025-03-30,817.3,Credit Card,Barbados,Nancy Hopkins,zachary95@example.org,Female,2024-09-11,Sao Tome and Principe,387.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+145,61,2025-03-14,1317.76,PayPal,Gibraltar,Mary Miller,dtaylor@example.org,Female,2020-11-07,Hong Kong,47.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+146,26,2024-01-14,36.45,Cash,Bahrain,Mrs. Rachel Gibson,uhorton@example.net,Male,2023-11-30,Libyan Arab Jamahiriya,112.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+147,45,2022-02-09,2760.32,Bank Transfer,Nigeria,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,305.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+147,45,2022-02-09,2760.32,Bank Transfer,Nigeria,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,339.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+147,45,2022-02-09,2760.32,Bank Transfer,Nigeria,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,369.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+148,30,2024-02-19,0.0,PayPal,Mexico,Christina Moran,josephanderson@example.net,Other,2022-02-07,Germany,,,,,,,,,
+149,4,2024-06-14,1346.96,PayPal,Hong Kong,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,172.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+149,4,2024-06-14,1346.96,PayPal,Hong Kong,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,223.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+150,52,2025-08-01,0.0,Bank Transfer,Marshall Islands,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,,,,,,,,,
+151,36,2022-10-13,2213.0,Credit Card,Madagascar,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,111.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+151,36,2022-10-13,2213.0,Credit Card,Madagascar,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,267.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+151,36,2022-10-13,2213.0,Credit Card,Madagascar,Deborah Figueroa,hhoffman@example.org,Male,2025-04-30,Portugal,296.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,33.0,10.0,1.0,36.45,Price Room,Home,36.45,390.0,BrandD
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,55.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,183.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,272.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia,Reginald Williams,zthornton@example.com,Female,2022-07-14,Panama,361.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,7.0,6.0,4.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,92.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,262.0,1.0,3.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,283.0,9.0,3.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,318.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,366.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,386.0,2.0,3.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+153,45,2024-10-10,5348.76,Cash,Brazil,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,434.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+154,87,2025-01-05,1728.2,Bank Transfer,Pakistan,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,133.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+154,87,2025-01-05,1728.2,Bank Transfer,Pakistan,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,328.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+155,4,2025-02-11,3763.43,Credit Card,Micronesia,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,27.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+155,4,2025-02-11,3763.43,Credit Card,Micronesia,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,370.0,8.0,5.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+155,4,2025-02-11,3763.43,Credit Card,Micronesia,Phillip Garcia,wdavis@example.net,Other,2021-12-04,Aruba,481.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+156,34,2024-06-27,2972.14,PayPal,Cuba,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,108.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+156,34,2024-06-27,2972.14,PayPal,Cuba,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,217.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+156,34,2024-06-27,2972.14,PayPal,Cuba,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,308.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+156,34,2024-06-27,2972.14,PayPal,Cuba,Brittney Campbell,jenniferharris@example.net,Other,2024-11-13,Madagascar,322.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+157,75,2023-04-29,2384.28,Bank Transfer,Tuvalu,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,8.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+157,75,2023-04-29,2384.28,Bank Transfer,Tuvalu,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,70.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+157,75,2023-04-29,2384.28,Bank Transfer,Tuvalu,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,113.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+157,75,2023-04-29,2384.28,Bank Transfer,Tuvalu,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,491.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+158,5,2022-07-08,1943.72,Credit Card,Guadeloupe,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,65.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+158,5,2022-07-08,1943.72,Credit Card,Guadeloupe,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,249.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+158,5,2022-07-08,1943.72,Credit Card,Guadeloupe,Kimberly Dudley,smiller@example.net,Female,2023-09-12,Tokelau,473.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+159,77,2024-11-29,1409.57,Cash,Iran,Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,220.0,5.0,2.0,136.12,Charge It,Books,136.12,252.0,BrandC
+159,77,2024-11-29,1409.57,Cash,Iran,Elizabeth Ward,alexis82@example.com,Female,2020-10-30,Austria,342.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+160,45,2023-04-08,388.62,Bank Transfer,Bhutan,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,45.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+160,45,2023-04-08,388.62,Bank Transfer,Bhutan,Michael Smith,michaeljones@example.net,Male,2025-03-17,Nigeria,188.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+161,56,2022-11-08,2167.92,Credit Card,Germany,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,13.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+161,56,2022-11-08,2167.92,Credit Card,Germany,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,114.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+161,56,2022-11-08,2167.92,Credit Card,Germany,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,123.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+161,56,2022-11-08,2167.92,Credit Card,Germany,Dustin Nelson,patricia12@example.org,Other,2021-10-04,Puerto Rico,221.0,2.0,1.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+162,50,2024-04-06,1577.95,PayPal,Holy See (Vatican City State),Eric Drake,andrewsanchez@example.com,Female,2023-08-29,Seychelles,435.0,9.0,5.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+163,33,2025-06-02,719.79,Credit Card,Poland,Aimee Montoya,sarah12@example.com,Female,2021-03-06,Botswana,141.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+163,33,2025-06-02,719.79,Credit Card,Poland,Aimee Montoya,sarah12@example.com,Female,2021-03-06,Botswana,444.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+164,91,2025-04-18,1211.23,Cash,Bangladesh,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,98.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+164,91,2025-04-18,1211.23,Cash,Bangladesh,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,209.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+164,91,2025-04-18,1211.23,Cash,Bangladesh,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,432.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+164,91,2025-04-18,1211.23,Cash,Bangladesh,Robin Pierce,qmiller@example.com,Other,2021-03-07,Sierra Leone,474.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+165,1,2021-12-20,1137.33,PayPal,Belize,Allison Hill,donaldgarcia@example.net,Other,2025-01-24,Benin,411.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+166,47,2021-12-23,3107.88,Cash,Bhutan,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,79.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+166,47,2021-12-23,3107.88,Cash,Bhutan,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,162.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+166,47,2021-12-23,3107.88,Cash,Bhutan,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,240.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+166,47,2021-12-23,3107.88,Cash,Bhutan,Jason Bentley,christinaturner@example.net,Female,2024-10-09,Gabon,389.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+167,9,2024-07-31,0.0,Bank Transfer,Holy See (Vatican City State),Jennifer Jones,jason76@example.net,Other,2022-11-24,Estonia,,,,,,,,,
+168,80,2024-11-06,1859.93,Bank Transfer,Moldova,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,1.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+168,80,2024-11-06,1859.93,Bank Transfer,Moldova,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,286.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+168,80,2024-11-06,1859.93,Bank Transfer,Moldova,Amy Hernandez,christopher31@example.net,Female,2024-06-04,New Caledonia,459.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+169,85,2021-11-04,1212.46,Credit Card,Zimbabwe,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,215.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+169,85,2021-11-04,1212.46,Credit Card,Zimbabwe,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,302.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+169,85,2021-11-04,1212.46,Credit Card,Zimbabwe,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,312.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,59.0,6.0,1.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,115.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,146.0,7.0,5.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,181.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,256.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,265.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,384.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland,Mr. Anthony Adams Jr.,samuel71@example.org,Male,2025-06-20,New Caledonia,469.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+171,65,2024-04-13,408.36,Bank Transfer,Isle of Man,Carol Lawson,stricklandfrank@example.com,Other,2021-02-21,Anguilla,291.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+172,86,2023-01-07,340.68,Cash,Papua New Guinea,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,475.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+173,42,2025-05-14,1633.35,Cash,Jamaica,Courtney Keller,emurphy@example.com,Male,2022-05-11,Malawi,237.0,4.0,4.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+173,42,2025-05-14,1633.35,Cash,Jamaica,Courtney Keller,emurphy@example.com,Male,2022-05-11,Malawi,307.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+174,90,2025-01-28,940.72,Bank Transfer,Saint Helena,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,53.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+174,90,2025-01-28,940.72,Bank Transfer,Saint Helena,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,381.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+174,90,2025-01-28,940.72,Bank Transfer,Saint Helena,Jason Morris,hodgemark@example.net,Male,2023-01-30,Panama,406.0,10.0,4.0,36.45,Price Room,Home,36.45,390.0,BrandD
+175,71,2021-10-23,1158.17,PayPal,France,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,200.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+175,71,2021-10-23,1158.17,PayPal,France,Laura Barnett,anthony52@example.com,Male,2021-08-30,South Georgia and the South Sandwich Islands,495.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+176,25,2024-01-03,1461.84,Cash,Guinea,Cynthia Russell,zlewis@example.org,Other,2021-06-04,Afghanistan,122.0,4.0,3.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+176,25,2024-01-03,1461.84,Cash,Guinea,Cynthia Russell,zlewis@example.org,Other,2021-06-04,Afghanistan,277.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+177,86,2022-01-07,544.48,Cash,Madagascar,Paul Carroll,scott74@example.net,Female,2022-08-13,Faroe Islands,130.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+178,87,2022-06-15,2347.56,PayPal,Palestinian Territory,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,145.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+178,87,2022-06-15,2347.56,PayPal,Palestinian Territory,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,399.0,10.0,2.0,36.45,Price Room,Home,36.45,390.0,BrandD
+178,87,2022-06-15,2347.56,PayPal,Palestinian Territory,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,463.0,8.0,3.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+179,79,2023-07-14,4814.22,Bank Transfer,Tanzania,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,23.0,1.0,5.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+179,79,2023-07-14,4814.22,Bank Transfer,Tanzania,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,56.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+179,79,2023-07-14,4814.22,Bank Transfer,Tanzania,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,177.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+179,79,2023-07-14,4814.22,Bank Transfer,Tanzania,Cody Williams,ewilson@example.com,Other,2023-01-23,Morocco,451.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+180,52,2022-01-14,1468.07,Credit Card,Tanzania,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,48.0,5.0,3.0,136.12,Charge It,Books,136.12,252.0,BrandC
+180,52,2022-01-14,1468.07,Credit Card,Tanzania,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,121.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+180,52,2022-01-14,1468.07,Credit Card,Tanzania,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,214.0,5.0,1.0,136.12,Charge It,Books,136.12,252.0,BrandC
+180,52,2022-01-14,1468.07,Credit Card,Tanzania,Stephanie Dalton,osbornejeffery@example.net,Female,2023-03-12,Australia,241.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+181,39,2023-10-30,1756.94,Bank Transfer,Brazil,Nicole Frost,michellecherry@example.org,Female,2025-01-04,Anguilla,164.0,5.0,4.0,136.12,Charge It,Books,136.12,252.0,BrandC
+181,39,2023-10-30,1756.94,Bank Transfer,Brazil,Nicole Frost,michellecherry@example.org,Female,2025-01-04,Anguilla,180.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+181,39,2023-10-30,1756.94,Bank Transfer,Brazil,Nicole Frost,michellecherry@example.org,Female,2025-01-04,Anguilla,490.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+182,27,2024-08-27,1142.02,Cash,Montserrat,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,63.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+182,27,2024-08-27,1142.02,Cash,Montserrat,Edward Novak,adkinsbrian@example.net,Other,2022-12-27,Uruguay,496.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+183,75,2022-07-05,758.22,Bank Transfer,Japan,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,278.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+183,75,2022-07-05,758.22,Bank Transfer,Japan,Michael Nelson,jerry35@example.org,Male,2024-04-26,Zambia,494.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+184,60,2024-12-25,1010.04,Cash,Seychelles,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,54.0,4.0,1.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+184,60,2024-12-25,1010.04,Cash,Seychelles,Rebecca Ramsey,ncalhoun@example.net,Other,2020-09-26,India,163.0,5.0,5.0,136.12,Charge It,Books,136.12,252.0,BrandC
+185,57,2024-11-16,833.35,PayPal,Nicaragua,Daniel Perry,amy60@example.org,Male,2024-10-07,Iceland,77.0,7.0,4.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+185,57,2024-11-16,833.35,PayPal,Nicaragua,Daniel Perry,amy60@example.org,Male,2024-10-07,Iceland,400.0,8.0,1.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+186,66,2024-04-21,182.25,Cash,Moldova,Laura Odonnell,tsanders@example.org,Male,2020-12-24,Portugal,91.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+187,95,2021-09-16,570.87,PayPal,Vanuatu,Brittany Cantu,william46@example.com,Other,2025-07-03,Ecuador,351.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+187,95,2021-09-16,570.87,PayPal,Vanuatu,Brittany Cantu,william46@example.com,Other,2025-07-03,Ecuador,428.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+187,95,2021-09-16,570.87,PayPal,Vanuatu,Brittany Cantu,william46@example.com,Other,2025-07-03,Ecuador,465.0,7.0,1.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+188,85,2024-03-27,591.9,Credit Card,Puerto Rico,Jessica Stephens,rebekahserrano@example.org,Other,2020-11-24,Somalia,447.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+189,37,2022-09-03,2610.71,Bank Transfer,Cocos (Keeling) Islands,Kimberly Davenport,russellwilliams@example.com,Male,2025-02-05,South Africa,134.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+189,37,2022-09-03,2610.71,Bank Transfer,Cocos (Keeling) Islands,Kimberly Davenport,russellwilliams@example.com,Male,2025-02-05,South Africa,448.0,6.0,2.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+189,37,2022-09-03,2610.71,Bank Transfer,Cocos (Keeling) Islands,Kimberly Davenport,russellwilliams@example.com,Male,2025-02-05,South Africa,487.0,3.0,4.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+190,12,2022-09-12,1382.56,PayPal,Serbia,Kyle Mcdonald,tasha01@example.net,Other,2025-01-10,Sao Tome and Principe,368.0,1.0,4.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+191,87,2022-11-03,1516.44,Bank Transfer,Guadeloupe,Katherine Miller,prestonjessica@example.net,Other,2021-11-08,Bermuda,10.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,41.0,9.0,1.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,50.0,2.0,2.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,128.0,10.0,3.0,36.45,Price Room,Home,36.45,390.0,BrandD
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,193.0,2.0,4.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,225.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands,Todd Hudson,harveyrobert@example.net,Other,2023-06-06,Germany,314.0,9.0,2.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+193,19,2025-01-30,1098.9,Credit Card,Mongolia,George Chapman,briannasmith@example.net,Male,2023-10-05,Denmark,39.0,7.0,3.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+193,19,2025-01-30,1098.9,Credit Card,Mongolia,George Chapman,briannasmith@example.net,Male,2023-10-05,Denmark,403.0,8.0,2.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+194,6,2024-03-26,1698.69,PayPal,Bangladesh,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,153.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+194,6,2024-03-26,1698.69,PayPal,Bangladesh,Corey Jones,kendragalloway@example.org,Male,2024-12-08,Hong Kong,356.0,10.0,5.0,36.45,Price Room,Home,36.45,390.0,BrandD
+195,61,2022-03-04,691.28,Credit Card,North Macedonia,Mary Miller,dtaylor@example.org,Female,2020-11-07,Hong Kong,154.0,1.0,2.0,345.64,Through Less,Beauty,345.64,224.0,BrandC
+196,59,2025-06-28,2541.91,Cash,Bermuda,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,89.0,3.0,2.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+196,59,2025-06-28,2541.91,Cash,Bermuda,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,175.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+196,59,2025-06-28,2541.91,Cash,Bermuda,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,414.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+196,59,2025-06-28,2541.91,Cash,Bermuda,Sara Medina,tracynelson@example.com,Male,2020-09-30,Guadeloupe,483.0,2.0,5.0,118.38,Black Never,Electronics,118.38,32.0,BrandC
+197,81,2024-08-03,1674.95,PayPal,Cuba,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,12.0,9.0,4.0,315.59,Evidence Ground,Books,315.59,811.0,BrandD
+197,81,2024-08-03,1674.95,PayPal,Cuba,Lisa Rowe,chayes@example.com,Male,2024-11-26,Japan,330.0,3.0,3.0,137.53,Whether Loss,Toys,137.53,216.0,BrandC
+198,92,2023-02-09,1516.44,Cash,Korea,Jose Travis,mgutierrez@example.net,Other,2022-05-30,Saudi Arabia,355.0,8.0,4.0,379.11,Manager Station,Electronics,379.11,881.0,BrandA
+199,64,2022-12-20,4002.16,Cash,Heard Island and McDonald Islands,Lisa Allen,kcaldwell@example.org,Female,2022-12-05,Equatorial Guinea,218.0,4.0,5.0,329.44,Administration Seven,Books,329.44,405.0,BrandD
+199,64,2022-12-20,4002.16,Cash,Heard Island and McDonald Islands,Lisa Allen,kcaldwell@example.org,Female,2022-12-05,Equatorial Guinea,350.0,6.0,3.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+199,64,2022-12-20,4002.16,Cash,Heard Island and McDonald Islands,Lisa Allen,kcaldwell@example.org,Female,2022-12-05,Equatorial Guinea,378.0,6.0,5.0,294.37,Truth Real,Beauty,294.37,919.0,BrandD
+200,32,2022-11-07,572.76,PayPal,Greece,Sherry Wood,samueldaniels@example.com,Male,2023-08-30,Sri Lanka,2.0,7.0,2.0,113.56,Clear Bad,Clothing,113.56,141.0,BrandD
+200,32,2022-11-07,572.76,PayPal,Greece,Sherry Wood,samueldaniels@example.com,Male,2023-08-30,Sri Lanka,43.0,1.0,1.0,345.64,Through Less,Beauty,345.64,224.0,BrandC

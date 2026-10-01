@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_country
+1,68,2023-03-12,1262.36,Bank Transfer,Belgium
+2,71,2025-01-04,1516.44,Credit Card,Timor-Leste
+3,88,2024-04-20,36.45,Credit Card,Martinique
+4,88,2023-02-15,1329.27,Bank Transfer,Ghana
+5,99,2024-02-10,734.25,Bank Transfer,Tuvalu
+6,15,2024-08-22,2306.26,Bank Transfer,Tunisia
+7,56,2023-10-08,862.85,PayPal,Niger
+8,59,2021-11-16,1137.33,Credit Card,Norfolk Island
+9,93,2024-05-04,726.27,Bank Transfer,France
+10,65,2025-08-05,3391.78,PayPal,San Marino
+11,65,2021-12-19,550.12,Credit Card,Bolivia
+12,81,2024-08-23,5537.67,Bank Transfer,Romania
+13,82,2025-02-03,2304.08,PayPal,Kenya
+14,20,2022-04-09,294.37,Bank Transfer,French Southern Territories
+15,98,2025-03-20,883.11,PayPal,Aruba
+16,70,2022-11-25,0.0,Credit Card,Azerbaijan
+17,77,2022-10-11,1382.0,Bank Transfer,Holy See (Vatican City State)
+18,63,2023-04-30,588.74,Credit Card,Ecuador
+19,15,2023-09-24,794.67,Bank Transfer,Mongolia
+20,40,2024-05-01,1181.14,PayPal,Cocos (Keeling) Islands
+21,8,2022-04-14,2887.88,PayPal,Belgium
+22,73,2024-01-16,227.12,Credit Card,Hong Kong
+23,11,2024-01-31,658.04,Cash,Dominican Republic
+24,9,2023-08-06,526.74,PayPal,Myanmar
+25,17,2022-03-06,0.0,Cash,Kyrgyz Republic
+26,71,2024-02-26,1062.26,PayPal,Kuwait
+27,34,2022-08-17,1062.1,Cash,Algeria
+28,28,2025-03-14,1471.85,PayPal,Lao People's Democratic Republic
+29,92,2025-03-17,680.6,Bank Transfer,Philippines
+30,52,2023-10-16,3351.31,Bank Transfer,Barbados
+31,57,2023-05-16,1707.17,Cash,Guatemala
+32,16,2025-07-21,4179.13,PayPal,French Southern Territories
+33,29,2024-02-28,1262.5,Credit Card,Jamaica
+34,44,2024-05-13,461.39,Credit Card,Korea
+35,76,2024-12-25,473.52,PayPal,Congo
+36,76,2025-08-08,2394.87,PayPal,Timor-Leste
+37,1,2023-07-15,1927.58,Credit Card,Dominica
+38,91,2023-02-17,924.41,Credit Card,Guinea-Bissau
+39,30,2023-11-26,2070.21,Credit Card,Reunion
+40,5,2022-10-14,1578.58,Bank Transfer,Switzerland
+41,10,2024-03-27,1769.22,PayPal,Falkland Islands (Malvinas)
+42,36,2021-08-20,2824.68,Cash,Tonga
+43,28,2024-05-06,2136.3,PayPal,Samoa
+44,93,2025-07-01,0.0,Cash,United States Minor Outlying Islands
+45,32,2024-01-11,1278.14,Cash,Luxembourg
+46,53,2024-12-07,2209.13,PayPal,United Kingdom
+47,13,2022-10-01,2000.03,Credit Card,South Georgia and the South Sandwich Islands
+48,85,2022-07-11,0.0,Cash,Spain
+49,46,2023-01-05,236.76,Cash,North Macedonia
+50,53,2022-05-13,272.24,Cash,El Salvador
+51,94,2024-04-25,687.65,Credit Card,Saint Helena
+52,87,2024-09-03,1199.47,Credit Card,Pitcairn Islands
+53,8,2024-12-15,864.14,Cash,Niue
+54,94,2021-12-28,72.9,Bank Transfer,Niue
+55,14,2024-03-10,1137.33,PayPal,Georgia
+56,25,2024-10-04,1824.98,PayPal,Antigua and Barbuda
+57,69,2023-12-03,1360.34,Cash,Saint Martin
+58,18,2022-02-16,2986.93,Cash,United States of America
+59,24,2022-10-14,182.25,Bank Transfer,San Marino
+60,60,2023-04-08,2371.19,PayPal,Cook Islands
+61,10,2022-02-18,2267.63,Cash,Mauritius
+62,71,2025-02-09,1512.83,Credit Card,Haiti
+63,7,2023-09-23,3151.0,Credit Card,United States Minor Outlying Islands
+64,12,2022-09-11,1964.26,PayPal,Chad
+65,22,2022-08-19,2663.38,Cash,Sweden
+66,63,2025-05-19,0.0,Cash,Sri Lanka
+67,28,2022-10-14,1329.0,Cash,Trinidad and Tobago
+68,8,2022-12-16,0.0,PayPal,Brazil
+69,49,2023-06-24,1219.92,Credit Card,Belarus
+70,50,2022-03-02,4046.1,Bank Transfer,Czech Republic
+71,59,2025-01-16,868.57,Bank Transfer,Saint Kitts and Nevis
+72,55,2024-04-20,109.35,Cash,Indonesia
+73,20,2025-06-22,1134.84,PayPal,Spain
+74,38,2023-11-01,1920.16,PayPal,Bermuda
+75,8,2024-10-07,767.89,Credit Card,American Samoa
+76,96,2022-08-30,883.11,Bank Transfer,British Virgin Islands
+77,8,2023-06-04,0.0,Credit Card,Peru
+78,75,2024-08-07,236.76,Cash,Estonia
+79,65,2023-12-11,109.35,PayPal,Swaziland
+80,8,2024-02-27,2945.04,Credit Card,Holy See (Vatican City State)
+81,24,2022-01-14,2167.34,Credit Card,Djibouti
+82,77,2023-06-28,2211.14,Credit Card,Niger
+83,87,2025-02-20,588.74,PayPal,Monaco
+84,52,2022-12-01,72.9,Credit Card,New Zealand
+85,73,2022-06-28,4767.62,PayPal,Bahrain
+86,75,2024-02-23,886.27,Credit Card,Kyrgyz Republic
+87,80,2025-03-29,1962.41,Credit Card,Gabon
+88,54,2024-03-14,1308.34,Bank Transfer,Brazil
+89,34,2022-03-01,3411.36,PayPal,Yemen
+90,86,2021-10-02,329.44,Bank Transfer,Lithuania
+91,31,2022-01-25,3964.38,Bank Transfer,Dominica
+92,51,2025-02-25,109.35,PayPal,Burkina Faso
+93,86,2023-02-27,1804.65,Bank Transfer,Heard Island and McDonald Islands
+94,59,2024-04-14,1577.95,Bank Transfer,Samoa
+95,97,2024-05-22,2213.22,Credit Card,Mauritius
+96,2,2023-04-13,0.0,Cash,Samoa
+97,80,2024-07-05,454.24,Credit Card,Turks and Caicos Islands
+98,10,2023-04-07,746.38,PayPal,Bolivia
+99,65,2024-12-09,4010.72,Bank Transfer,Nicaragua
+100,17,2023-03-28,379.11,Bank Transfer,Zambia
+101,9,2022-09-21,0.0,PayPal,Portugal
+102,48,2023-02-01,5245.55,Bank Transfer,Kenya
+103,21,2023-05-20,1945.59,Cash,Dominica
+104,70,2025-01-09,0.0,Bank Transfer,Bolivia
+105,79,2025-07-12,2269.84,Credit Card,Heard Island and McDonald Islands
+106,86,2023-10-13,2457.5,Bank Transfer,Oman
+107,85,2023-01-15,2684.89,Credit Card,Indonesia
+108,18,2022-09-16,2597.76,Bank Transfer,British Virgin Islands
+109,15,2025-05-26,947.04,Credit Card,Swaziland
+110,96,2023-06-04,1728.2,PayPal,Panama
+111,35,2022-06-14,2757.18,Bank Transfer,Northern Mariana Islands
+112,78,2023-12-29,236.76,PayPal,Angola
+113,92,2021-10-21,1894.08,Bank Transfer,Grenada
+114,27,2022-07-30,1730.17,Bank Transfer,Brunei Darussalam
+115,65,2024-10-01,4135.63,Cash,Costa Rica
+116,33,2021-11-17,2062.88,Credit Card,Serbia
+117,12,2023-10-27,5233.24,Cash,Namibia
+118,36,2022-06-20,481.76,Credit Card,Trinidad and Tobago
+119,1,2022-07-15,2821.32,Bank Transfer,Singapore
+120,99,2022-03-12,1936.05,PayPal,United Arab Emirates
+121,82,2023-12-27,4776.84,Bank Transfer,Falkland Islands (Malvinas)
+122,21,2025-01-14,1577.95,Cash,Cameroon
+123,71,2025-07-21,454.24,Cash,Mauritius
+124,72,2022-08-10,1166.58,Credit Card,China
+125,15,2022-01-16,2329.33,Credit Card,Tonga
+126,89,2021-09-15,0.0,PayPal,American Samoa
+127,70,2023-01-14,379.11,Credit Card,Solomon Islands
+128,48,2022-07-22,72.9,PayPal,Gibraltar
+129,56,2021-09-01,3498.3,PayPal,Estonia
+130,6,2021-10-24,3475.58,Bank Transfer,Saint Vincent and the Grenadines
+131,47,2023-04-16,466.97,Credit Card,Brazil
+132,46,2024-08-02,137.53,PayPal,Lebanon
+133,88,2023-05-25,3313.1,PayPal,Guyana
+134,86,2023-08-28,0.0,Credit Card,Botswana
+135,46,2023-05-31,3450.27,Cash,Cyprus
+136,80,2025-05-21,1198.98,PayPal,Aruba
+137,31,2024-07-06,4018.08,PayPal,United States of America
+138,23,2025-01-26,1023.64,Cash,Mali
+139,4,2022-10-23,408.36,PayPal,Norway
+140,95,2025-06-17,702.73,Bank Transfer,Bahamas
+141,53,2025-08-06,1935.7,PayPal,Tanzania
+142,35,2023-03-18,2592.34,PayPal,Poland
+143,90,2022-01-13,3340.33,Credit Card,Rwanda
+144,49,2025-03-30,817.3,Credit Card,Barbados
+145,61,2025-03-14,1317.76,PayPal,Gibraltar
+146,26,2024-01-14,36.45,Cash,Bahrain
+147,45,2022-02-09,2760.32,Bank Transfer,Nigeria
+148,30,2024-02-19,0.0,PayPal,Mexico
+149,4,2024-06-14,1346.96,PayPal,Hong Kong
+150,52,2025-08-01,0.0,Bank Transfer,Marshall Islands
+151,36,2022-10-13,2213.0,Credit Card,Madagascar
+152,99,2024-01-10,2170.7,Bank Transfer,Bolivia
+153,45,2024-10-10,5348.76,Cash,Brazil
+154,87,2025-01-05,1728.2,Bank Transfer,Pakistan
+155,4,2025-02-11,3763.43,Credit Card,Micronesia
+156,34,2024-06-27,2972.14,PayPal,Cuba
+157,75,2023-04-29,2384.28,Bank Transfer,Tuvalu
+158,5,2022-07-08,1943.72,Credit Card,Guadeloupe
+159,77,2024-11-29,1409.57,Cash,Iran
+160,45,2023-04-08,388.62,Bank Transfer,Bhutan
+161,56,2022-11-08,2167.92,Credit Card,Germany
+162,50,2024-04-06,1577.95,PayPal,Holy See (Vatican City State)
+163,33,2025-06-02,719.79,Credit Card,Poland
+164,91,2025-04-18,1211.23,Cash,Bangladesh
+165,1,2021-12-20,1137.33,PayPal,Belize
+166,47,2021-12-23,3107.88,Cash,Bhutan
+167,9,2024-07-31,0.0,Bank Transfer,Holy See (Vatican City State)
+168,80,2024-11-06,1859.93,Bank Transfer,Moldova
+169,85,2021-11-04,1212.46,Credit Card,Zimbabwe
+170,93,2023-11-07,4808.48,Bank Transfer,Greenland
+171,65,2024-04-13,408.36,Bank Transfer,Isle of Man
+172,86,2023-01-07,340.68,Cash,Papua New Guinea
+173,42,2025-05-14,1633.35,Cash,Jamaica
+174,90,2025-01-28,940.72,Bank Transfer,Saint Helena
+175,71,2021-10-23,1158.17,PayPal,France
+176,25,2024-01-03,1461.84,Cash,Guinea
+177,86,2022-01-07,544.48,Cash,Madagascar
+178,87,2022-06-15,2347.56,PayPal,Palestinian Territory
+179,79,2023-07-14,4814.22,Bank Transfer,Tanzania
+180,52,2022-01-14,1468.07,Credit Card,Tanzania
+181,39,2023-10-30,1756.94,Bank Transfer,Brazil
+182,27,2024-08-27,1142.02,Cash,Montserrat
+183,75,2022-07-05,758.22,Bank Transfer,Japan
+184,60,2024-12-25,1010.04,Cash,Seychelles
+185,57,2024-11-16,833.35,PayPal,Nicaragua
+186,66,2024-04-21,182.25,Cash,Moldova
+187,95,2021-09-16,570.87,PayPal,Vanuatu
+188,85,2024-03-27,591.9,Credit Card,Puerto Rico
+189,37,2022-09-03,2610.71,Bank Transfer,Cocos (Keeling) Islands
+190,12,2022-09-12,1382.56,PayPal,Serbia
+191,87,2022-11-03,1516.44,Bank Transfer,Guadeloupe
+192,29,2023-01-03,1993.52,PayPal,Cocos (Keeling) Islands
+193,19,2025-01-30,1098.9,Credit Card,Mongolia
+194,6,2024-03-26,1698.69,PayPal,Bangladesh
+195,61,2022-03-04,691.28,Credit Card,North Macedonia
+196,59,2025-06-28,2541.91,Cash,Bermuda
+197,81,2024-08-03,1674.95,PayPal,Cuba
+198,92,2023-02-09,1516.44,Cash,Korea
+199,64,2022-12-20,4002.16,Cash,Heard Island and McDonald Islands
+200,32,2022-11-07,572.76,PayPal,Greece
